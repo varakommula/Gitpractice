@@ -1,1 +1,2 @@
-This is the second file added.
+This is the second file added. 
+newfeature branch chages added.
